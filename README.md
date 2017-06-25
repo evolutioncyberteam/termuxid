@@ -1,2 +1,6 @@
+
 # termuxid
-mirip dengan Termux Github, tetapi saya lebih memudahkan untuk pengguna bahasa melayu
+Created By Evolution Cyber Team
+Rescript from github Termux Internasional
+To make indonesian people mengerti :v
+Versi terupdate
